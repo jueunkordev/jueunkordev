@@ -1,5 +1,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=_ueu_6)](https://velog.io/@_ueu_6) 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 - 👋 Hi, I’m @jueunkordev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
