@@ -1,6 +1,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=_ueu_6)](https://velog.io/@_ueu_6) 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 - 👋 Hi, I’m @jueunkordev
 - 👀 I’m interested in ...
@@ -12,3 +12,4 @@
 jueunkordev/jueunkordev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](./profile-3d-contrib/profile-green-animate.svg)
